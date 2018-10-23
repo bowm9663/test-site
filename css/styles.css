@@ -1,0 +1,9 @@
+.logo {
+   color:  #aa2a5b;
+   font-size: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+header .logo {
+    font-size: 30px;
+}
